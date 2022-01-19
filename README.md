@@ -1,5 +1,5 @@
-#Continuum Website
+# Continuum Website
 Continuum Developer Team's website.
 
-#Contributors:
+# Contributors:
 Mozart
